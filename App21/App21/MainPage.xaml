@@ -1,0 +1,31 @@
+﻿
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App21.MainPage">
+
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+        <Label Text="Select Meal Size" />
+        <RadioButton x:Name="SmallRadioButton" x:DataType="Small ($300)" />
+        <RadioButton x:Name="MediumRadioButton" x:DataType="Medium ($400)" />
+        <RadioButton x:Name="LargeRadioButton" x:DataType="Large ($500)" />
+
+        <Label Text="Select Side Items" />
+        <CheckBox x:Name="FrenchFriesCheckBox" x:DataType="French Fries ($100)" />
+        <CheckBox x:Name="SideSaladCheckBox" x:DataType="Side Salad ($150)" />
+        <CheckBox x:Name="OnionRingsCheckBox" x:DataType="Onion Rings ($175)" />
+
+        <Label Text="Select Toppings" />
+        <Picker x:Name="ToppingsPicker">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Cheese - $50</x:String>   
+                    <x:String>Bacon - $65</x:String>
+                    <x:String>Avocado - $75</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Button Text="Place Order" Clicked="PlaceOrder_Clicked" />
+    </StackLayout>
+
+</ContentPage>

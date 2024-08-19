@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\App21\App21\App21\obj\Debug\netstandard2.0\App21.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\App21\App21\App21\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\App21\App21\App21\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\App21\App21\App21\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\user\source\repos\App21\App21\App21\obj\Debug\netstandard2.0\App21.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\App21\App21\App21\obj\Debug\netstandard2.0\App21.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\App21\App21\App21\obj\Debug\netstandard2.0\App21.AssemblyInfo.cs
+C:\Users\user\source\repos\App21\App21\App21\obj\Debug\netstandard2.0\App21.dll
+C:\Users\user\source\repos\App21\App21\App21\obj\Debug\netstandard2.0\ref\App21.dll
+C:\Users\user\source\repos\App21\App21\App21\obj\Debug\netstandard2.0\App21.pdb
+C:\Users\user\source\repos\App21\App21\App21\bin\Debug\netstandard2.0\App21.deps.json
+C:\Users\user\source\repos\App21\App21\App21\bin\Debug\netstandard2.0\App21.dll
+C:\Users\user\source\repos\App21\App21\App21\bin\Debug\netstandard2.0\ref\App21.dll
+C:\Users\user\source\repos\App21\App21\App21\bin\Debug\netstandard2.0\App21.pdb
+C:\Users\user\source\repos\App21\App21\App21\obj\Debug\netstandard2.0\XamlC.stamp
